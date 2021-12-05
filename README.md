@@ -4,7 +4,7 @@
 #must have the chrome version Version 96.0 (Official Build) (x86_64)
 
 ## Download the zip file or clone the git repository.
-## unzip the downoalded file
+## unzip the downloaded file
 ## open eclipse with downloaded folder (or open the downloaded package from the GitHub) 
 # or
 ## goto File->import->general->existing project into workspace->dictionary->select the downloaded file and import the file
