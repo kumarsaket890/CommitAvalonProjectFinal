@@ -1,8 +1,8 @@
-# CommitAvalonProjectFinal
+# AvalonProjectFinalcommit
 
 
 
-#System Requirements/Installation
+# System Requirements/Installation
 ### Must have javaSE-14
 ### Must have the chrome version Version 96.0 (Official Build) (x86_64)
 ### Must have eclipse
