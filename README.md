@@ -3,9 +3,9 @@
 
 
 # System Requirements/Installation
-### Must have javaSE-14
-### Must have the chrome version Version 96.0 (Official Build) (x86_64)
-### Must have eclipse
+### Should have javaSE-14
+### Should have the chrome version Version 96.0 (Official Build) (x86_64)
+### should have eclipse
 
 # Run
 
