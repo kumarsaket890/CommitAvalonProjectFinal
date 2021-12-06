@@ -7,6 +7,7 @@
 ### Must have the chrome version Version 96.0 (Official Build) (x86_64)
 ### Must have eclipse
 
+# RUN
 ### Download the zip file or clone the git repository.
 ### Unzip the downloaded file
 ### open the folder->Goto avalonTest->unzip the file chromedriver 2.zip inside AvalonTest
@@ -19,5 +20,5 @@
 ### Expand the avalontest->expand src->expand avalon.com.sak-> click on Testnew.java file.
 
  
-# Run
-### Run the code 
+
+## Run the code 
