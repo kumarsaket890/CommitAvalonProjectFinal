@@ -16,8 +16,8 @@
 ### Unzip the downloaded file
 
 ## Step3:-
-### Open the downloaded folder->Goto avalonTest->unzip the file chromedriver 2.zip inside AvalonTest
-### After unzip delete the chromedriver 2.zip file.
+### Open the downloaded folder->open avalonTest->unzip the file chromedriver 2.zip inside AvalonTest folder
+### After unzip chromedriver 2.zip file delete the chromedriver 2.zip file.
 
 ## Step4:-
 ### In Eclipse run the following commands
