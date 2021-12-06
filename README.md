@@ -17,21 +17,23 @@
 
 ## Step3:-
 ### Open the downloaded folder->open avalonTest->unzip the file chromedriver 2.zip inside AvalonTest folder
-### After unzip chromedriver 2.zip file delete the chromedriver 2.zip file.
 
 ## Step4:-
+### After unzip chromedriver 2.zip file delete the chromedriver 2.zip file.
+
+## Step5:-
 ### In Eclipse run the following commands
 ### Open eclipse->Browse->select CommitAvalonProjectFinal-main folder (downloaded folder) 
 
-## Step5:-
+## Step6:-
 ### Goto File->open project from file system->click on dictionary->select AvalonTest and click on open.
 
-## Step6:-
+## Step7:-
 ### Once the downloaded package gets imported 
 
-## Step7:-
+## Step8:-
 ### Expand the avalontest->expand src->expand avalon.com.sak-> click on Testnew.java file.
 
  
-# step8:-
+# step9:-
 ## Run the code 
