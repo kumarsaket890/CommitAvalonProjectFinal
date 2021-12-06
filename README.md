@@ -15,7 +15,9 @@
 # In Eclipse run the following commands
 ### Open eclipse with downloaded folder (or open the downloaded package from the GitHub) 
   # OR
-### Goto File->import->general->existing project into workspace->dictionary->select the downloaded file and import the file
+### Goto File->open project from file system->click on dictionary->select AvalonTest and click on open
+
+
 ### Once the downloaded package gets imported 
 ### Expand the avalontest->expand src->expand avalon.com.sak-> click on Testnew.java file.
 
