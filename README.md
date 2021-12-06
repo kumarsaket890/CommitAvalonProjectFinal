@@ -16,7 +16,7 @@
 
 # Step2:-
 ## In Eclipse run the following commands
-### Open eclipse with downloaded folder (or open the downloaded package from the GitHub) 
+### Open eclipse->Browse->select CommitAvalonProjectFinal-main(downloaded folder) 
 ### Goto File->open project from file system->click on dictionary->select AvalonTest and click on open.
 
 # Step3:-
